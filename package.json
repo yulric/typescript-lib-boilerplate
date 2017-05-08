@@ -1,6 +1,6 @@
 {
   "name": "typescript-lib-boilerplate",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Boilerplate for creating typescript libraries",
   "repository": {
     "type": "git",
